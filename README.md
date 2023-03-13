@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <u><b>โจทย์แบบทดสอบปฏิบัติ PHP&amp;my SQL</b></u>
   <br></br>
-  <br><img src="1.PracticeTest.png"/></br>
+  <br><img src="/image for GITHUB README/1.PracticeTest.png"/></br>
   <br></br>
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/O25_3YJLLzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
