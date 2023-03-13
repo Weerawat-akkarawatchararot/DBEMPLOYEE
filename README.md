@@ -2,7 +2,6 @@
 
 <div id="header" align="center">
   <u><b>โจทย์แบบทดสอบปฏิบัติ PHP&amp;my SQL</b></u>
-
   <br><img src="/image for GITHUB README/1.PracticeTest.png"/></br>
 
   การลงชื่อเข้าใช้
