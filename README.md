@@ -1,7 +1,7 @@
 # DBemployee
 
 <div id="header" align="center">
-  <big>โจทย์แบบทดสอบปฏิบัติ PHP&amp;my SQL</big>
+  <u><b>โจทย์แบบทดสอบปฏิบัติ PHP&amp;my SQL</b><u>
   <br></br>
   <br><img src="https://pbs.twimg.com/media/DxERDA9VsAA5ABO.jpg" width="200"/></br>
   <br>โดย นายวีรวัชร์ อัคราวัชรโรจน์</br>
