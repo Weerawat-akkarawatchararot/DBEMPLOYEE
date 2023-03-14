@@ -39,7 +39,7 @@ $result=$controller->getBook();
                 
             </select>
         </div>
-        <input type="submit" name="submit" value ="อัพเดท" class="btn btn-primary my-3">
+        <input type="submit" name="submit" value ="อัปเดตข้อมูล" class="btn btn-primary my-3">
 
     </form>
 </div>
